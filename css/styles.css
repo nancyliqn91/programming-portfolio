@@ -1,3 +1,17 @@
 .language {
   color:blue;
 }
+
+.box1 {
+  padding: 20px;
+  border: 0cap;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  color:aqua;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  background-color: bisque;
+}
