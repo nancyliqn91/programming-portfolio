@@ -2,12 +2,19 @@
   color:blue;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  float:left;
+}
+
 .box1 {
   padding: 20px;
   border: 0cap;
   margin-bottom: 10px;
   box-sizing: border-box;
-  color:aqua;
 }
 
 .column {
