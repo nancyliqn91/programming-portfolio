@@ -12,7 +12,7 @@
 
 ## Description
 
-It contains my background information, the skill set, and project list.
+It contains my background information, skill set, and project list.
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ It contains my background information, the skill set, and project list.
 
 ## Known Bugs
 
-* No bugs 
+No bugs 
 
 ## License
 
