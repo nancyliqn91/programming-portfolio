@@ -16,7 +16,7 @@ It contains my background information, skill set, and project list.
 
 ## Setup/Installation Requirements
 
-* Click this <a href="https://www.nancyliqn91.github.io/programming-portfolio">link</a> to see the website
+* Click this <a href="https://nancyliqn91.github.io/programming-portfolio">link</a> to see the website
 * For information and projects
 
 ## Known Bugs
