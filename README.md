@@ -25,6 +25,6 @@ No bugs
 
 ## MIT
 
-please emainl to *<nancyliqn91@gmail.com>* if have questions.
+please email to *<nancyliqn91@gmail.com>* if have questions.
 
 Copyright (c) 2023 Qian Li
