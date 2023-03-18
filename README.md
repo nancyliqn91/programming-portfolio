@@ -12,7 +12,7 @@
 
 ## Description
 
-It contains my background information, skill set, and project list.
+It contains my ==background information, skill set, and project list==.
 
 ## Setup/Installation Requirements
 
