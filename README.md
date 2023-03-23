@@ -25,5 +25,5 @@ It contains my background information, skill set, and project list.
 No bugs 
 
 ## License
-[MIT](https://en.wikipedia.org/wiki/MIT_License)
+[MIT](https://opensource.org/license/mit/)
 Copyright (c) 2023 Qian Li
