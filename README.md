@@ -16,15 +16,14 @@ It contains my background information, skill set, and project list.
 
 ## Setup/Installation Requirements
 
-* Click this [webpage](https://nancyliqn91.github.io/programming-portfolio) to see the website
-* For information and projects
+* Clone the project from Github to the local desktop.
+* Open the project folder(programming-portfolio).
+* Open the index.html on the Chrome broswer.
 
 ## Known Bugs
 
 No bugs 
 
-## MIT
-
-please email to *<nancyliqn91@gmail.com>* if have questions.
-
+## License
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 Copyright (c) 2023 Qian Li
